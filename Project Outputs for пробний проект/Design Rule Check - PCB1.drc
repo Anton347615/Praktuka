@@ -1,0 +1,80 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\sovgy\OneDrive\Рабочий стол\літня практика\пробний проект\PCB1.PcbDoc
+Date     : 14.06.2025
+Time     : 20:14:12
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R1-1(2mm,14.1mm) on Top Layer And Track (1mm,13.5mm)(1mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.254mm) Between Pad R1-1(2mm,14.1mm) on Top Layer And Track (1mm,13.5mm)(3mm,13.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R1-1(2mm,14.1mm) on Top Layer And Track (3mm,13.5mm)(3mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R2-1(5mm,14.1mm) on Top Layer And Track (4mm,13.5mm)(4mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.254mm) Between Pad R2-1(5mm,14.1mm) on Top Layer And Track (4mm,13.5mm)(6mm,13.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R2-1(5mm,14.1mm) on Top Layer And Track (6mm,13.5mm)(6mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R3-1(8mm,14.1mm) on Top Layer And Track (7mm,13.5mm)(7mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.254mm) Between Pad R3-1(8mm,14.1mm) on Top Layer And Track (7mm,13.5mm)(9mm,13.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R3-1(8mm,14.1mm) on Top Layer And Track (9mm,13.5mm)(9mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R4-1(11mm,14.1mm) on Top Layer And Track (10mm,13.5mm)(10mm,16.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.254mm) Between Pad R4-1(11mm,14.1mm) on Top Layer And Track (10mm,13.5mm)(12mm,13.5mm) on Top Layer 
+   Violation between Clearance Constraint: (0.223mm < 0.254mm) Between Pad R4-1(11mm,14.1mm) on Top Layer And Track (12mm,13.5mm)(12mm,16.5mm) on Top Layer 
+Rule Violations :12
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC1_1 Between Pad Q1-2(3.27mm,2mm) on Multi-Layer And Pad C1-1(5mm,9mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_1 Between Pad R1-1(2mm,14.1mm) on Top Layer And Pad C1-1(5mm,9mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_2 Between Pad Q2-3(8mm,2mm) on Multi-Layer And Pad C1-2(12.62mm,9mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC1_2 Between Pad R3-1(8mm,14.1mm) on Top Layer And Pad C1-2(12.62mm,9mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC2_1 Between Pad Q1-3(2mm,2mm) on Multi-Layer And Pad C2-1(18mm,3.19mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad R4-1(11mm,14.1mm) on Top Layer And Pad C2-2(18mm,10.81mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q2-1(10.54mm,2mm) on Multi-Layer And Pad P1-2(22mm,12.54mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q1-1(4.54mm,2mm) on Multi-Layer And Pad Q2-1(10.54mm,2mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetC2_1 Between Pad Q1-3(2mm,2mm) on Multi-Layer And Pad R2-1(5mm,14.1mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC2_2 Between Pad Q2-2(9.27mm,2mm) on Multi-Layer And Pad R4-1(11mm,14.1mm) on Top Layer 
+Rule Violations :10
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q1-1(4.54mm,2mm) on Multi-Layer And Pad Q1-2(3.27mm,2mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q1-2(3.27mm,2mm) on Multi-Layer And Pad Q1-3(2mm,2mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q2-1(10.54mm,2mm) on Multi-Layer And Pad Q2-2(9.27mm,2mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q2-2(9.27mm,2mm) on Multi-Layer And Pad Q2-3(8mm,2mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+Rule Violations :4
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.201mm < 0.254mm) Between Text "P1" (20.984mm,14.238mm) on Bottom Overlay And Track (20.73mm,13.81mm)(23.27mm,13.81mm) on Bottom Overlay Silk Text to Silk Clearance [0.201mm]
+   Violation between Silk To Silk Clearance Constraint: (0.204mm < 0.254mm) Between Text "R2" (4.117mm,17.39mm) on Top Overlay And Text "R3" (7.114mm,17.39mm) on Top Overlay Silk Text to Silk Clearance [0.204mm]
+   Violation between Silk To Silk Clearance Constraint: (0.229mm < 0.254mm) Between Text "R3" (7.114mm,17.39mm) on Top Overlay And Text "R4" (10.137mm,17.39mm) on Top Overlay Silk Text to Silk Clearance [0.229mm]
+Rule Violations :3
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 29
+Waived Violations : 0
+Time Elapsed        : 00:00:00
