@@ -25,9 +25,9 @@
 - Побудовано схему мультивібратора
 - Створено макет друкованої плати
 ![Схема мультивібратора](https://github.com/user-attachments/assets/88136f59-e4c8-4ef2-872a-5eb14c49304e)
-![2D модель друкованої плати](https://github.com/user-attachments/assets/ca039a1f-1d70-437b-affe-6a1c4313a9cb)
-![3D модель друкованої плати](https://github.com/user-attachments/assets/077a6ac4-56ea-4d80-8f1d-3e2b8d9d6abe)
-![3D модель друкованої плати](https://github.com/user-attachments/assets/6eff2943-a76d-48f7-a71c-f758d87b6f85)
+![2D Модель](https://github.com/user-attachments/assets/91ccf4f3-b705-4b74-873a-494e8399fadc)
+![3D модель](https://github.com/user-attachments/assets/ea2ba4bd-2021-4e83-bc11-f99f6cbfc6b8)
+![3D модель](https://github.com/user-attachments/assets/c90b1313-f4bf-4c01-8fb3-9911d48dbaf7)
 
 📜 Ліцензія
 Проєкт створено в навчальних цілях. Вільне використання з посиланням на автора.
