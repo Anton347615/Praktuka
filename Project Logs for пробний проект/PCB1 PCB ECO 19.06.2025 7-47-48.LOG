@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+12V Pin=J?-1
+Removed Pin From Net: NetName=+12V Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Added Pin To Net: NetName=+12V Pin=R3-2
+Add Class Member: Failed to add class member : Component * Штекер 2

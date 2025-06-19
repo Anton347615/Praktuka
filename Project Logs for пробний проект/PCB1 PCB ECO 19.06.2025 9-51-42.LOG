@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+12V Pin=Q1-1
+Removed Pin From Net: NetName=+12V Pin=Q2-1
+Removed Pin From Net: NetName=+12V Pin=R3-2
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Pin To Net: NetName=+12V Pin=J1-1
+Added Pin To Net: NetName=+12V Pin=J1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Net: Name=GND
+Added Rule: Name=Schematic Supply Nets

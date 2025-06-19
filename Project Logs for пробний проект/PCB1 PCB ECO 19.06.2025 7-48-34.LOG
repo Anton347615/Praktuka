@@ -1,0 +1,6 @@
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Added Pin To Net: NetName=+12V Pin=Q1-1
+Added Pin To Net: NetName=+12V Pin=Q2-1
+Add Class Member: Failed to add class member : Component * Штекер 2
+Added Rule: Name=Schematic Supply Nets_1
